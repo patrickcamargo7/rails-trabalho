@@ -1,4 +1,6 @@
 class Raca
+  attr_accessor :vida, :ataque, :defesa, :inteligencia, :forca
+
   def initialize
     @vida = 0
     @ataque = 0
