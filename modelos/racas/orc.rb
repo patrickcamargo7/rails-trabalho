@@ -1,3 +1,5 @@
+require_relative 'raca'
+
 class Orc < Raca
   def initialize
     @vida = 15

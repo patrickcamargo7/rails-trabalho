@@ -2,7 +2,7 @@ class PersonagensRepositorio
   attr_accessor :personagens
 
   def initialize
-    @classes = []
+    @personagens = []
   end
 
   def adicionar(personagem)

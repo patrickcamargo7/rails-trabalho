@@ -1,3 +1,5 @@
+require_relative 'raca'
+
 class Anao < Raca
   def initialize
     @vida = 18

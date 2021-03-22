@@ -1,3 +1,5 @@
+require_relative 'raca'
+
 class Humano < Raca
   def initialize
     @vida = 20

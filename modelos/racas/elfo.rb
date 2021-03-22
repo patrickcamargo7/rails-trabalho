@@ -1,3 +1,5 @@
+require_relative 'raca'
+
 class Elfo < Raca
   def initialize
     @vida = 25
