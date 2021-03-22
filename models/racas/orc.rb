@@ -1,5 +1,4 @@
-class Orc
-  extend Raca
+class Orc < Raca
   def initialize
     @vida = 15
     @ataque = 12

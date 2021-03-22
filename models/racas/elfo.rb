@@ -1,5 +1,4 @@
-class Elfo
-  extend Raca
+class Elfo < Raca
   def initialize
     @vida = 25
     @ataque = 5

@@ -1,5 +1,4 @@
-class Humano
-  extend Raca
+class Humano < Raca
   def initialize
     @vida = 20
     @ataque = 8
